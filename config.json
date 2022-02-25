@@ -1,0 +1,24 @@
+{
+  "browsers": [
+    {
+      "browserName": "safari",
+      "version": "latest",
+      "platform": "macOS 10.14"
+    },
+    {
+      "browserName": "firefox",
+      "version": "70",
+      "platform": "Windows 10"
+    },
+    {
+      "browserName": "chrome",
+      "version": "68",
+      "platform": "Windows 10"
+    },
+    {
+      "browserName": "chrome",
+      "version": "70",
+      "platform": "macOS 10.14"
+    }
+  ]
+}
